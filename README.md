@@ -4,7 +4,7 @@
 *Crafting systems with soul*
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=zerogrowth&show_icons=true&theme=radical&title_color=ff6f61&icon_color=ffb86b&text_color=ffffff&bg_color=0d1117" 
+  src="https://github-readme-stats.vercel.app/api?username=nurhabibassolihudin&show_icons=true&theme=radical&title_color=ff6f61&icon_color=ffb86b&text_color=ffffff&bg_color=0d1117" 
   alt="Stats Nur" 
   style="border-radius: 12px; box-shadow: 0 0 12px #ff6f61;" 
 />
@@ -12,7 +12,7 @@
 <br />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerogrowth&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6f61&text_color=ffffff" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhabibassolihudin&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6f61&text_color=ffffff" 
   alt="Top Languages"
   style="margin-top: 10px;"
 />
@@ -47,7 +47,7 @@ I love building **interactive games** and **trading systems** — tools that ref
 ### 🧪 Building & Exploring
 
 - 🧠 **ZG_BTrade** – *A personal backtesting system, evolving into a full analytical trading lab*
-- 🎮 **Zerogrowth Game Store** – *Micro-games that stir emotion, built with minimal code but maximum impact*
+- 🎮 **nurhabibassolihudin Game Store** – *Micro-games that stir emotion, built with minimal code but maximum impact*
 - 🛠️ Deepening my understanding of **AI integration**, **game mechanics**, and **value-driven software design**
 
 ---
@@ -71,4 +71,4 @@ I love building **interactive games** and **trading systems** — tools that ref
 
 ---
 
-![snake gif](https://github.com/zerogrowth/zerogrowth/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nurhabibassolihudin/nurhabibassolihudin/blob/output/github-contribution-grid-snake.svg)
