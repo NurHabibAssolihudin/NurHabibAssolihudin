@@ -36,7 +36,7 @@ I love building **interactive games** and **trading systems** — tools that ref
 ### 🔧 Currently Using
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Web-Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-Django--Friendly-E34F26?style=for-the-badge&logo=html5&logoColor=white)
