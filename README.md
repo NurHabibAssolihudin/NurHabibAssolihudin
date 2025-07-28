@@ -47,7 +47,7 @@ I love building **interactive games** and **trading systems** — tools that ref
 ### 🧪 Building & Exploring
 
 - 🧠 **ZG_BTrade** – *A personal backtesting system, evolving into a full analytical trading lab*
-- 🎮 **nurhabibassolihudin Game Store** – *Micro-games that stir emotion, built with minimal code but maximum impact*
+- 🎮 **ZG Game Store** – *Micro-games that stir emotion, built with minimal code but maximum impact*
 - 🛠️ Deepening my understanding of **AI integration**, **game mechanics**, and **value-driven software design**
 
 ---
