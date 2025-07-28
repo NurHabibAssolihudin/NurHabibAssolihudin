@@ -9,14 +9,6 @@
   style="border-radius: 12px; box-shadow: 0 0 12px #ff6f61;" 
 />
 
-<br />
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhabibassolihudin&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6f61&text_color=ffffff" 
-  alt="Top Languages"
-  style="margin-top: 10px;"
-/>
-
 </div>
 
 ---
@@ -47,7 +39,7 @@ I love building **interactive games** and **trading systems** — tools that ref
 ### 🧪 Building & Exploring
 
 - 🧠 **ZG_BTrade** – *A personal backtesting system, evolving into a full analytical trading lab*
-- 🎮 **ZG Game Store** – *Micro-games that stir emotion, built with minimal code but maximum impact*
+- 🎮 **Zerogrowth Game Store** – *Micro-games that stir emotion, built with minimal code but maximum impact*
 - 🛠️ Deepening my understanding of **AI integration**, **game mechanics**, and **value-driven software design**
 
 ---
