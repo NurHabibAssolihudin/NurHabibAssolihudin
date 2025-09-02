@@ -4,7 +4,7 @@
 *Crafting systems with soul*
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=nurhabibassolihudin&show_icons=true&theme=radical&title_color=ff6f61&icon_color=ffb86b&text_color=ffffff&bg_color=0d1117" 
+  src="https://github-readme-stats.vercel.app/api?username=nurhabibassolihudin&show_icons=true&theme=radical&title_color=ff6f61&icon_color=ffb86b&text_color=0d1117&bg_color=ffffff" 
   alt="My Stats" 
   style="border-radius: 12px; box-shadow: 0 0 12px #ff6f61;" 
 />
