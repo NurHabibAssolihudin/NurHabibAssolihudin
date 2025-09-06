@@ -1,66 +1,65 @@
 <div align="center">
 
-# ⚙️ **Nur – Art Engineer**  
-*Crafting systems with soul*
+# ⚙️ Nur – AI & Automation Engineer  
+*Designing systems that think, act, and scale*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ZeroGrowth-black?style=for-the-badge&logo=github)](https://github.com/nurhabibassolihudin)
 
 <img 
   src="https://github-readme-stats.vercel.app/api?username=nurhabibassolihudin&show_icons=true&theme=radical&title_color=ff6f61&icon_color=ffb86b&text_color=0d1117&bg_color=ffffff" 
-  alt="My Stats" 
-  style="border-radius: 12px; box-shadow: 0 0 12px #ff6f61;" 
+  alt="GitHub Stats"
 />
 
 </div>
 
 ---
 
-### 🎯 Who I Am
+### 👋 About Me  
 
-> **“Life is not just about being born and dying.”**  
-> It’s about *feeling*, *failing*, *fighting*, and *finding* meaning.  
-> I live once — and I choose to make it unforgettable.
+I’m **Nur**, an engineer passionate about **AI & automation**.  
+My work focuses on creating systems that reduce complexity, cut repetitive work, and unlock new opportunities for businesses.  
 
-I’m **Nur**, a back-end engineer with a soul of an artist.  
-My ambition is to create something real — logic that evokes emotion.  
-I love building **interactive games** and **ai systems** — tools that reflect human struggle, creativity, and precision.
+I combine a **back-end engineering background** with an **automation mindset** — delivering tools, platforms, and workflows that scale.  
 
 ---
 
-### 🔧 Currently Using
+### 🚀 What I Build  
+
+- 🤖 **AI-Powered Assistants** – chatbots, copilots, and process automation  
+- 📊 **Data & Trading Systems** – backtesting, analytics, smart workflows  
+- 🛠️ **DevOps & Infrastructure Automation** – Dockerized, scalable, and production-ready  
+- ⚡ **Custom Automation Tools** – from APIs to everyday workflow bots  
+
+---
+
+### 🧩 Featured Projects  
+
+- 🔹 [**ZG_BTrade**](https://github.com/your-repo) → Personal backtesting system evolving into a full analytical trading lab  
+- 🔹 [**AI Assistants with LangChain**](https://github.com/your-repo) → Contextual AI copilots for dev, data, and security workflows  
+- 🔹 [**Automation Templates**](https://github.com/your-repo) → Ready-to-use Python tools for everyday business automation  
+
+---
+
+### 🛠️ Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-Django--Friendly-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Utility-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-AI%20Framework-1A73E8?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ---
 
-### 🧪 Building & Exploring
+### 📫 Let’s Connect  
 
-- 🧠 **ZG_BTrade** – *A personal backtesting system, evolving into a full analytical trading lab*
-- 🎮 **0-Day** – *Simple emotional and tactical 2d game*
-- 🛠️ Deepening my understanding of **AI integration**, **game development**, and **value-driven business design**
-
----
-
-### 🔭 Future Tech Interest
-
-- 🧬 Emotional feedback loops in interactive systems
-- 🧠 Intelligent tools that *feeling*, not just serve
-- 🎨 Audio-visual storytelling in micro-software experiences
-
----
+💡 I’m open for **freelance, remote collaborations, or building something new together.**  
+📩 Reach out via [LinkedIn](https://www.linkedin.com/in/your-link/) or [Email](mailto:your-email@example.com).  
 
 <div align="center">
 
-> *“Growth starts at zero. Meaning is built, not found.”*  
-
-⚡ Let’s build with clarity. Let’s design with meaning.  
-📫 Reach me for collaborations, or just to talk ideas.
+> *“Growth starts at zero. Let’s automate the future.”*
 
 </div>
-
----
-
-![snake gif](https://github.com/nurhabibassolihudin/nurhabibassolihudin/blob/output/github-contribution-grid-snake.svg)
