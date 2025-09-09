@@ -37,7 +37,7 @@ I combine a **back-end engineering background** with an **automation mindset** �
 ### 🧩 Featured Projects  
 
 - 🔹 [**ZG_BTrade**](https://github.com/your-repo) → Personal backtesting system evolving into a full analytical trading lab  
-- 🔹 [**AI Assistants with LangChain**](https://github.com/your-repo) → Contextual AI copilots for dev, data, and security workflows  
+- 🔹 [**AI Assistants with LangChain**](https://github.com/NurHabibAssolihudin/Terminal-Alpha) → Contextual AI copilots for dev, data, and security workflows  
 - 🔹 [**Automation Templates**](https://github.com/your-repo) → Ready-to-use Python tools for everyday business automation  
 
 ---
