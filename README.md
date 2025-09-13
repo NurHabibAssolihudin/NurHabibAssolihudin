@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ Nur – AI & Automation Engineer  
+# ⚙️ Nur – Business Automation Specialist | AI Powered Workflow  
 *Designing systems that think, act, and scale*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link/)
@@ -18,7 +18,7 @@
 
 ### 👋 About Me  
 
-I’m **Nur**, an engineer passionate about **AI & automation**.  
+I’m **Nur**, an engineer passionate about **Automation & AI**.  
 My work focuses on creating systems that reduce complexity, cut repetitive work, and unlock new opportunities for businesses.  
 
 I combine a **back-end engineering background** with an **automation mindset** — delivering tools, platforms, and workflows that scale.  
@@ -26,11 +26,11 @@ I combine a **back-end engineering background** with an **automation mindset** �
 ---
 
 ### 🚀 What I Build  
-
+ 
+- ⚡ **Custom Automation Tools** – from APIs to everyday workflow bots  
 - 🤖 **AI-Powered Assistants** – chatbots, copilots, and process automation  
 - 📊 **Data & Trading Systems** – backtesting, analytics, smart workflows  
-- 🛠️ **DevOps & Infrastructure Automation** – Dockerized, scalable, and production-ready  
-- ⚡ **Custom Automation Tools** – from APIs to everyday workflow bots  
+- 🛠️ **DevOps & Infrastructure Automation** – Dockerized, scalable, and production-ready 
 
 ---
 
@@ -56,7 +56,7 @@ I combine a **back-end engineering background** with an **automation mindset** �
 ### 📫 Let’s Connect  
 
 💡 I’m open for **freelance, remote collaborations, or building something new together.**  
-📩 Reach out via [LinkedIn](https://www.linkedin.com/in/your-link/) or [Email](mailto:your-email@example.com).  
+📩 Reach out via [LinkedIn](https://www.linkedin.com/in/nurhabib-assolihudin/) or [Email](mailto:nurhabibassolihudin12@gmail.com).  
 
 <div align="center">
 
