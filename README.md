@@ -3,8 +3,8 @@
 # ⚙️ Nur – Business Automation Specialist | AI Powered Workflow  
 *Designing systems that think, act, and scale*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nurhabib-assolihudin/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:nurhabibassolihudin12@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ZeroGrowth-black?style=for-the-badge&logo=github)](https://github.com/nurhabibassolihudin)
 
 <img 
