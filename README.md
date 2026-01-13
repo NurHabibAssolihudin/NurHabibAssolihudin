@@ -7,11 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:nurhabibassolihudin12@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ZeroGrowth-black?style=for-the-badge&logo=github)](https://github.com/nurhabibassolihudin)
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=nurhabibassolihudin&show_icons=true&theme=radical&title_color=ff6f61&icon_color=ffb86b&text_color=0d1117&bg_color=ffffff" 
-  alt="GitHub Stats"
-/>
-
 </div>
 
 ---
