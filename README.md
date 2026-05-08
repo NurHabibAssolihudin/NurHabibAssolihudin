@@ -1,60 +1,58 @@
 <div align="center">
+Context-aware AI assistants for engineering and workflow automation.
 
-# ⚙️ Nur – Business Automation Specialist | AI Powered Workflow  
-*Designing systems that think, act, and scale*
+### 🔹 Distributed Communication Experiments
+Experimental systems using queues, asynchronous communication, and infrastructure-oriented design.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nurhabib-assolihudin/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:nurhabibassolihudin12@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ZeroGrowth-black?style=for-the-badge&logo=github)](https://github.com/nurhabibassolihudin)
-
-</div>
+### 🔹 Redis Clone (Learning Project)
+Exploring memory management, networking, and internal system architecture through low-level implementation.
 
 ---
 
-### 👋 About Me  
+## 🛠️ Tech Stack
 
-I’m **Nur**, an engineer passionate about **Automation & AI**.  
-My work focuses on creating systems that reduce complexity, cut repetitive work, and unlock new opportunities for businesses.  
+### Languages
+- Python
+- C (learning)
+- JavaScript
 
-I combine a **back-end engineering background** with an **automation mindset** — delivering tools, platforms, and workflows that scale.  
+### Backend & Infrastructure
+- Django
+- Docker
+- Redis
+- PostgreSQL
+- RabbitMQ
+- Linux
 
----
-
-### 🚀 What I Build  
- 
-- ⚡ **Custom Automation Tools** – from APIs to everyday workflow bots  
-- 🤖 **AI-Powered Assistants** – chatbots, copilots, and process automation  
-- 📊 **Data & Trading Systems** – backtesting, analytics, smart workflows  
-- 🛠️ **DevOps & Infrastructure Automation** – Dockerized, scalable, and production-ready 
-
----
-
-### 🧩 Featured Projects  
-
-- 🔹 [**ZG_BTrade**](https://github.com/NurHabibAssolihudin/ZeroGrowth_Backtrade) → Personal backtesting system evolving into a full analytical trading lab  
-- 🔹 [**AI Assistants with LangChain**](https://github.com/NurHabibAssolihudin/Terminal-Alpha) → Contextual AI copilots for dev, data, and security workflows  
-- 🔹 [**Automation Templates**](https://github.com/your-repo) → Ready-to-use Python tools for everyday business automation  
-
----
-
-### 🛠️ Tech Stack  
-
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-AI%20Framework-1A73E8?style=for-the-badge&logo=chainlink&logoColor=white)
+### Areas of Interest
+- Distributed Systems
+- Infrastructure Engineering
+- Networking
+- Real-Time Communication
+- Low-Level Systems
+- Robotics
+- Automation
 
 ---
 
-### 📫 Let’s Connect  
+## 📚 Philosophy
 
-💡 I’m open for **freelance, remote collaborations, or building something new together.**  
-📩 Reach out via [LinkedIn](https://www.linkedin.com/in/nurhabib-assolihudin/) or [Email](mailto:nurhabibassolihudin12@gmail.com).  
+> I believe strong engineering comes from understanding systems deeply — not just using abstractions.
+
+---
+
+## 📫 Connect
+
+I’m open to:
+- remote collaboration,
+- systems engineering opportunities,
+- infrastructure projects,
+- and experimental technical work.
+
+📩 Reach out via LinkedIn or Email.
 
 <div align="center">
 
-> *“Growth starts at zero. Let’s automate the future.”*
+> “Growth starts at zero. Systems shape the future.”
 
 </div>
