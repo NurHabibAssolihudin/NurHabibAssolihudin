@@ -1,119 +1,94 @@
-# Nur — Systems-Oriented Software Engineer
+# 👋 Nur — AI Products & Platform Builder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nurhabib-assolihudin/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:nurhabibassolihudin12@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ZeroGrowth-black?style=for-the-badge&logo=github)](https://github.com/nurhabibassolihudin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&color=df741f)](https://www.linkedin.com/in/nurhabib-assolihudin/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&color=df741f)](mailto:nurhabibassolihudin12@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nur.build-black?style=for-the-badge&logo=github)](https://nurhabibassolihudin.github.io)
 
+> **I build platforms, productize AI, and ship the occasional universe.**
+
+```txt
+builder // platforms · ai · games
 ```
-Building reliable systems, exploring communication between machines,
-and understanding what exists beneath abstraction layers.
-````
-
-Backend Engineer focused on distributed systems, infrastructure engineering, realtime communication, and low-level software architecture.
 
 ---
 
 ## About Me
 
-I work primarily in backend engineering with a strong interest in how systems behave internally — not only how to use them.
+I'm **NurHabib Assolihudin** — an engineer who turns ideas into working systems, products, and stories. My work spans full platforms, AI-assisted products, and games, held together by a love for the details underneath.
 
-My curiosity naturally pulls toward:
+I care about understanding how systems behave internally — not just how to use them — then using that understanding to build the next layer on top.
 
-* distributed systems
-* asynchronous architectures
-* networking & communication protocols
-* infrastructure reliability
-* message queues & event-driven systems
-* low-level programming concepts
-* automation & robotics
-* experimental system design
+### What I build
 
-I enjoy building engineering-heavy projects that force me to understand system behavior deeply rather than depending entirely on frameworks.
-
----
-
-## Current Exploration
-
-* Building a Redis-like system from scratch
-* Designing realtime communication systems
-* Exploring RabbitMQ, queues, and workflow orchestration
-* Studying distributed coordination patterns
-* Developing AI-assisted engineering tooling
-* Experimenting with terminal simulation environments
-* Learning infrastructure internals and reliability engineering
+- 🏗️ **Platforms** — modular platform architecture, micro-frontends, design systems, backend services
+- 🤖 **AI Products** — self-hosted agents, AI-driven UIs, low-level native bridges, LLM pipelines
+- 🎮 **Games & Systems** — realtime systems, storage engines, and narrative games & stories
 
 ---
 
 ## Featured Projects
 
-### Distributed & Systems Engineering
+### 🏗️ Ocaty — modular e-commerce platform
+Module Federation micro-frontends (host + remote), a design system published as an npm package, and FastAPI services (account & notification) on PostgreSQL.
+`TypeScript · React · Module Federation · FastAPI · PostgreSQL`
 
-| Project                             | Description                                                                                                          |
-| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Redis Clone**                     | In-memory data structure server built to understand storage engines, persistence, networking, and concurrency models |
-| **Realtime Communication System**   | Experimental secure communication architecture focused on routing, encryption, and endpoint coordination             |
-| **Async Workflow Engine**           | Event-driven processing system using queues, workers, retries, and orchestration patterns                            |
-| **Terminal Simulation Environment** | Interactive system-like terminal interface inspired by operational infrastructure tooling                            |
-| **AI-Assisted Developer Tooling**   | Automation and productivity tooling focused on engineering workflows instead of generic AI wrappers                  |
+### 🤖 Tony — self-hosted AI assistant
+A stateful agent with memory (Letta) + a custom React UI + an automation layer, composed as one monorepo.
+`Letta · React · Activepieces · TypeScript` — [repo](https://github.com/NurHabibAssolihudin/Tony)
+
+### 🤖 Oxelot — low-level PWA native-bridge
+A spec-driven library that gives PWAs native-level storage, background processing, and hardware access — with WASM SQLite VFS, OPFS, and a worker pool.
+`TypeScript · WASM · Workers · OPFS` — [repo](https://github.com/NurHabibAssolihudin/Oxelot)
+
+### 🤖 GenUI — AI-configurable dashboard
+A FastAPI + Jinja2 dashboard whose layout an AI reshapes from plain language, emitting JSON that renders into UI components.
+`Python · FastAPI · Jinja2 · LLM` — [repo](https://github.com/NurHabibAssolihudin/GenUI)
+
+### ⚙️ RabbitMQ-Chat-App — realtime chat
+A FastAPI chat over RabbitMQ quorum queues with a WebSocket broadcast hub — pub/sub & durability in practice.
+`Python · FastAPI · RabbitMQ · WebSocket` — [repo](https://github.com/NurHabibAssolihudin/RabbitMQ-Chat-App)
+
+### 🎮 alimagine — games & narrative
+Games and interactive stories built on moment and feeling — visual, audio, and story — from a Godot platformer to a world-building political thriller trilogy.
+`Godot · GDScript · Narrative Design` — [org](https://github.com/alimagine)
 
 ---
 
-## Tech Stack
-
-### Languages & Backend
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python)
-![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge\&logo=django)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge\&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript)
-
-### Infrastructure & Systems
-
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker)
-![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge\&logo=redis)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge\&logo=postgresql)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111827?style=for-the-badge\&logo=rabbitmq)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge\&logo=linux)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git)
-
-### Interests
+## Stack
 
 ```txt
-Distributed Systems • Infrastructure Engineering • Networking
-Realtime Communication • Event-Driven Systems • Reliability
-Automation • Robotics • System Design • Low-Level Programming
+Languages   : Python · TypeScript · JavaScript · GDScript
+Backend+AI  : FastAPI · Jinja2 · Letta · LLM Agents · WASM
+Frontend    : React · Next.js · Vite · Module Federation · Design Systems
+Data & Infra: PostgreSQL · Redis · RabbitMQ · Docker
+Tooling     : Bun · uv · pnpm · Git
+Games       : Godot · GDScript
 ```
 
 ---
 
-## Engineering Philosophy
+## Philosophy
 
-> Reliable systems are built from understanding, not abstraction alone.
-
-I value:
-
-* clarity over unnecessary complexity
-* deep understanding over shallow speed
-* reliable architecture over trend-driven engineering
-* systems thinking over isolated feature thinking
-* long-term maintainability over short-term hype
-
-I am especially interested in how independent components communicate, coordinate, fail, recover, and scale under real conditions.
+1. **Ship, then understand deeper** — building real things is where you learn what the system actually demands.
+2. **Productize AI, don't wrap it** — turn models into products with real memory, real actions, real interfaces.
+3. **Prefer internals over abstractions** — abstractions are easier to learn; internals are easier to debug.
+4. **Make it observable before fast** — if you can't see what a system is doing, you can't make it reliable.
 
 ---
 
 ## Contact
 
-* GitHub: [github.com/nurhabibassolihudin](https://github.com/nurhabibassolihudin)
-* LinkedIn: [linkedin.com/in/nurhabib-assolihudin](https://www.linkedin.com/in/nurhabib-assolihudin/)
-* Email: [nurhabibassolihudin12@gmail.com](mailto:nurhabibassolihudin12@gmail.com)
+- **Portfolio:** [nurhabibassolihudin.github.io](https://nurhabibassolihudin.github.io)
+- **GitHub:** [github.com/NurHabibAssolihudin](https://github.com/NurHabibAssolihudin)
+- **LinkedIn:** [nurhabib-assolihudin](https://www.linkedin.com/in/nurhabib-assolihudin/)
+- **Email:** [nurhabibassolihudin12@gmail.com](mailto:nurhabibassolihudin12@gmail.com)
 
 ---
 
 <div align="center">
 
 ```txt
-Systems, communication, reliability, and the engineering beneath the interface.
+Platforms · AI · Games — built with curiosity.
 ```
 
 </div>
