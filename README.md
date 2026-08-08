@@ -1,94 +1,228 @@
-# 👋 Nur — AI Products & Platform Builder
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&color=df741f)](https://www.linkedin.com/in/nurhabib-assolihudin/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&color=df741f)](mailto:nurhabibassolihudin12@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nur.build-black?style=for-the-badge&logo=github)](https://nurhabibassolihudin.github.io)
+# 👋 Hi — I'm **Nur**
 
 > **I build platforms, productize AI, and ship the occasional universe.**
 
+`builder // platforms · ai · games`
+
+</div>
+
+---
+
+## ⌨️ interactive session
+
+Ketik perintah di bawah ini — profile ini adalah terminal kecil yang bisa kamu jelajahi.
+
+<div align="center">
+
+```
+$ help
+  usage: nur [-h] [--about] [--pillars] [--projects] [--stack] [--philosophy] [--contact] [--maze]
+
+  commands
+    about        whoami — the short version
+    pillars      the three sides of the builder
+    projects     featured work (private repos stay descriptive)
+    stack        the tools I reach for
+    philosophy   notes on building
+    contact      email, github, linkedin, portfolio
+    maze         the odyssey — a maze you can contribute to
+
+$ about
+  name      : nurhabib assolihudin
+  role      : builder / engineer
+  focus     : platforms · ai products · games & systems
+  open_to   : platforms, AI products, games, or something in between
+
+$ pillars
+  P.01  platforms       modular architecture, micro-frontends, design systems
+  P.02  ai products     self-hosted agents, AI-driven UIs, native bridges
+  P.03  games & systems realtime systems, storage engines, narrative stories
+
+$ stack
+  languages   python · typescript · javascript · gdscript
+  backend+ai  fastapi · jinja2 · letta · llm agents · wasm
+  frontend    react · next.js · vite · module federation
+  data        postgresql · redis · rabbitmq · docker
+  tooling     bun · uv · pnpm · git
+  games       godot · gdscript
+
+$ philosophy
+  01  ship, then understand deeper
+  02  productize ai, don't wrap it
+  03  prefer internals over abstractions
+  04  make it observable before fast
+
+$ projects
+  ocaty · tony · oxelot · genui · rabbitmq-chat-app · alimagine
+
+$ maze
+  a living maze lives at the bottom of this profile — find your way
+  to the exit, then leave a mark. more in §odyssey.
+
+$ contact
+  email      nurhabibassolihudin12@gmail.com
+  github     github.com/NurHabibAssolihudin
+  linkedin   linkedin.com/in/nurhabib-assolihudin
+  portfolio  nurhabibassolihudin.github.io
+
+$ exit
+  thanks for visiting.
+```
+
+</div>
+
+<!-- every command above maps to a section below. the maze is real: it is solvable,
+     and the path cells are open for you to mark. read §odyssey for the rules. -->
+
+---
+
+<!-- ============================================================ -->
+<!-- §1 · about / key-value                                  -->
+<!-- ============================================================ -->
+
+## §1 · about
+
+Saya **NurHabib Assolihudin** — engineer yang mengubah ide menjadi sistem, produk, dan cerita. Karya saya membentang dari platform utuh, produk berbantuan AI, hingga game; diikat oleh kecintaan pada detail di bawah permukaan. Saya peduli memahami bagaimana sistem berperilaku *secara internal* — bukan hanya cara menggunakannya — lalu memakai pemahaman itu untuk membangun lapisan berikutnya di atasnya.
+
+| field   | value |
+| ------- | ----- |
+| **role**      | builder / engineer |
+| **focus**     | platforms · ai products · games & systems |
+| **open_to**   | platforms, AI products, games, or something in between |
+| **portfolio** | [nurhabibassolihudin.github.io](https://nurhabibassolihudin.github.io) |
+| **github**    | [github.com/NurHabibAssolihudin](https://github.com/NurHabibAssolihudin) |
+| **linkedin**  | [linkedin.com/in/nurhabib-assolihudin](https://www.linkedin.com/in/nurhabib-assolihudin/) |
+| **email**     | [nurhabibassolihudin12@gmail.com](mailto:nurhabibassolihudin12@gmail.com) |
+
+---
+
+<!-- ============================================================ -->
+<!-- §2 · featured projects                                    -->
+<!-- ============================================================ -->
+
+## §2 · featured projects
+
+> Ada yang terbuka, ada yang privat — yang privat saya tampilkan deskriptif, tanpa tautan yang mati.
+
+| project | pillar | stack | link |
+| ------- | ------ | ----- | ---- |
+| **Ocaty** — modular e-commerce platform | platforms | TypeScript · React · Module Federation · FastAPI · PostgreSQL | private |
+| **Tony** — self-hosted AI assistant | ai products | Letta · React · Activepieces · TypeScript | [repo](https://github.com/NurHabibAssolihudin/Tony) |
+| **Oxelot** — low-level PWA native-bridge | ai products | TypeScript · WASM · Workers · OPFS | [repo](https://github.com/NurHabibAssolihudin/Oxelot) |
+| **GenUI** — AI-configurable dashboard | ai products | Python · FastAPI · Jinja2 · LLM | [repo](https://github.com/NurHabibAssolihudin/GenUI) |
+| **RabbitMQ-Chat-App** — realtime chat | systems | Python · FastAPI · RabbitMQ · WebSocket | [repo](https://github.com/NurHabibAssolihudin/RabbitMQ-Chat-App) |
+| **alimagine** — games & narrative | games | Godot · GDScript · Narrative | [org](https://github.com/alimagine) |
+
+---
+<!-- ============================================================ -->
+<!-- §3 · philosophy                                           -->
+<!-- ============================================================ -->
+
+## §3 · philosophy
+
 ```txt
-builder // platforms · ai · games
+01 · ship, then understand deeper
+    plans are great, but shipping is where you learn what the
+    system actually demands. build real things, then dig into
+    why they work.
+
+02 · productize ai, don't wrap it
+    the value isn't a prompt box — it's turning models into
+    products with real memory, real actions, real interfaces.
+
+03 · prefer internals over abstractions
+    abstractions are easier to learn, internals are easier to
+    debug. i want both, in that order.
+
+04 · make it observable before fast
+    if you can't see what a system is doing, you can't make it
+    reliable — let alone fast. observability is the first
+    optimization.
 ```
 
 ---
 
-## About Me
+<!-- ============================================================ -->
+<!-- §4 · odyssey maze (collaborative)                        -->
+<!-- ============================================================ -->
 
-I'm **NurHabib Assolihudin** — an engineer who turns ideas into working systems, products, and stories. My work spans full platforms, AI-assisted products, and games, held together by a love for the details underneath.
+## §4 · the odyssey maze 🧩
 
-I care about understanding how systems behave internally — not just how to use them — then using that understanding to build the next layer on top.
+> **Ship the occasional universe.** Ini maze yang hidup — dan kamu bisa menjadi bagian darinya.
 
-### What I build
+Setiap profil punya bio. Profil ini punya **labirin**. Cari jalan dari **ENTRANCE** (kiri) ke **EXIT** (kanan) — lalu tinggalkan jejakmu di dalamnya.
 
-- 🏗️ **Platforms** — modular platform architecture, micro-frontends, design systems, backend services
-- 🤖 **AI Products** — self-hosted agents, AI-driven UIs, low-level native bridges, LLM pipelines
-- 🎮 **Games & Systems** — realtime systems, storage engines, and narrative games & stories
-
----
-
-## Featured Projects
-
-### 🏗️ Ocaty — modular e-commerce platform
-Module Federation micro-frontends (host + remote), a design system published as an npm package, and FastAPI services (account & notification) on PostgreSQL.
-`TypeScript · React · Module Federation · FastAPI · PostgreSQL`
-
-### 🤖 Tony — self-hosted AI assistant
-A stateful agent with memory (Letta) + a custom React UI + an automation layer, composed as one monorepo.
-`Letta · React · Activepieces · TypeScript` — [repo](https://github.com/NurHabibAssolihudin/Tony)
-
-### 🤖 Oxelot — low-level PWA native-bridge
-A spec-driven library that gives PWAs native-level storage, background processing, and hardware access — with WASM SQLite VFS, OPFS, and a worker pool.
-`TypeScript · WASM · Workers · OPFS` — [repo](https://github.com/NurHabibAssolihudin/Oxelot)
-
-### 🤖 GenUI — AI-configurable dashboard
-A FastAPI + Jinja2 dashboard whose layout an AI reshapes from plain language, emitting JSON that renders into UI components.
-`Python · FastAPI · Jinja2 · LLM` — [repo](https://github.com/NurHabibAssolihudin/GenUI)
-
-### ⚙️ RabbitMQ-Chat-App — realtime chat
-A FastAPI chat over RabbitMQ quorum queues with a WebSocket broadcast hub — pub/sub & durability in practice.
-`Python · FastAPI · RabbitMQ · WebSocket` — [repo](https://github.com/NurHabibAssolihudin/RabbitMQ-Chat-App)
-
-### 🎮 alimagine — games & narrative
-Games and interactive stories built on moment and feeling — visual, audio, and story — from a Godot platformer to a world-building political thriller trilogy.
-`Godot · GDScript · Narrative Design` — [org](https://github.com/alimagine)
-
----
-
-## Stack
+### Cara bermain
 
 ```txt
-Languages   : Python · TypeScript · JavaScript · GDScript
-Backend+AI  : FastAPI · Jinja2 · Letta · LLM Agents · WASM
-Frontend    : React · Next.js · Vite · Module Federation · Design Systems
-Data & Infra: PostgreSQL · Redis · RabbitMQ · Docker
-Tooling     : Bun · uv · pnpm · Git
-Games       : Godot · GDScript
+ENTRANCE → [· · · @ · · ·] → EXIT
+           ^^ jalur terbuka ^^
+
+·  path cell — kosong, bisa kamu tandai
+#  wall
+@  mark — sudah ditempati (mulai dari Nur, di pojok kiri atas)
+```
+
+### Quest log
+
+- **q.01 — join the maze:** buka PR yang mengganti **satu** sel path `·` menjadi `@` di jalur yang kamu temukan. Nama panggilanmu tercatat sebagai penjelajah.
+- **q.02 — suggest a quest:** punya ide misi yang lebih menarik? Buka issue dengan tag `quest`.
+
+### Aturan main
+
+```txt
+1 · ganti TEPAT SATU sel path (·) → (@)
+2 · pilih sel path yang TERHUBUNG ke jalan yang sudah ada
+3 · jangan menimpa @ milik orang lain
+4 · jangan ubah dinding (#) atau entri/exit
+5 · PR harus valid — build yang memvalidasi jalur dijalankan
+   secara otomatis; jalur yang tidak valid ditutup.
+```
+
+```
+###########################
+·@········#·····#·····#···#
+#########·###·#·#·#·#·#·#·#
+#·······#···#·#···#·#···#·#
+#·#########·#·#####·#######
+#·····#···#·#·#···#·······#
+#·###·#·#·#·###·#·#·#####·#
+#···#·#·#·#·····#·#···#···#
+#·###·#·#·#######·###·#·#·#
+#·#···#·#·······#·#·#·#·#·#
+#·#·###·#·#######·#·#·#·###
+#·#·····#·········#···#···#
+#·#################·#####·#
+#·······#···#·····#·····#·#
+#######·#·#·#·###·#######·#
+#·········#···#············
+###########################
 ```
 
 ---
+<!-- ============================================================ -->
+<!-- §5 · contact                                             -->
+<!-- ============================================================ -->
 
-## Philosophy
+## §5 · contact
 
-1. **Ship, then understand deeper** — building real things is where you learn what the system actually demands.
-2. **Productize AI, don't wrap it** — turn models into products with real memory, real actions, real interfaces.
-3. **Prefer internals over abstractions** — abstractions are easier to learn; internals are easier to debug.
-4. **Make it observable before fast** — if you can't see what a system is doing, you can't make it reliable.
+```txt
+$ contact
+  email      nurhabibassolihudin12@gmail.com
+  github     github.com/NurHabibAssolihudin
+  linkedin   linkedin.com/in/nurhabib-assolihudin
+  portfolio  nurhabibassolihudin.github.io
 
----
-
-## Contact
-
-- **Portfolio:** [nurhabibassolihudin.github.io](https://nurhabibassolihudin.github.io)
-- **GitHub:** [github.com/NurHabibAssolihudin](https://github.com/NurHabibAssolihudin)
-- **LinkedIn:** [nurhabib-assolihudin](https://www.linkedin.com/in/nurhabib-assolihudin/)
-- **Email:** [nurhabibassolihudin12@gmail.com](mailto:nurhabibassolihudin12@gmail.com)
-
----
+$ exit
+  thanks for visiting. see you in the maze.
+```
 
 <div align="center">
 
 ```txt
-Platforms · AI · Games — built with curiosity.
+platforms · ai · games — built with curiosity
 ```
 
 </div>
