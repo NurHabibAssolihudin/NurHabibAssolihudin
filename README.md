@@ -2,69 +2,83 @@
   <img src="./profile/header.svg" width="1280" alt="" />
 </p>
 
-# Hi, I'm Nur.
+<div align="center">
 
-I develop web applications, system integrations and tools for developers. I like understanding how the pieces work together, from the interface to the data and background processes behind it.
+# NurHabib Assolihudin
 
-[Portfolio](https://nurhabibassolihudin.github.io/en/) · [LinkedIn](https://www.linkedin.com/in/nurhabib-assolihudin) · [Email](mailto:nurhabibassolihudin12@gmail.com)
+**Web applications · Systems integration · Developer tools**
 
-## Selected work
+<p>
+  <a href="https://nurhabibassolihudin.github.io/en/"><img src="https://img.shields.io/badge/Portfolio-4264FF?style=for-the-badge" alt="View my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nurhabib-assolihudin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:nurhabibassolihudin12@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
+</p>
 
-These are personal projects. I handle their planning, branding, development, deployment and marketing.
+</div>
 
-### ORCA
+## About me
 
-A self-hostable workspace for project documents, tasks and schedules. I develop the workspace and its document, board and calendar views.
+I'm **Nur**, a developer working across web applications, backend services and tools for other developers.
 
-[Try the demo](https://orca.ocaty.com) · [Project overview](https://nurhabibassolihudin.github.io/en/#project-orca)
+I like understanding how the pieces work together: the interface someone uses, the services behind it, and the data moving between them. I care about making that machinery understandable and the experience worth using.
 
-### Ocaty
+## What I build
 
-Modular business applications for commerce, CRM and ERP. My work includes frontend modules, shared interface components, and account and notification services.
+- **Web applications** — project workspaces, business applications and shared interface components.
+- **Systems integration & automation** — APIs, service integrations, messaging and background processing.
+- **Developer tools** — browser storage, workers and offline data synchronization.
+- **AI experiments** — self-hosted assistants and prototypes for working with interfaces through natural language.
 
-**Technology:** TypeScript, React, Module Federation, FastAPI, PostgreSQL.
+## Projects & experiments
 
-[Project overview](https://nurhabibassolihudin.github.io/en/#project-ocaty)
+### Applications & developer tools
 
-### Oxelot
+- **[ORCA](https://orca.ocaty.com)** — a self-hostable workspace for project documents, tasks and schedules, with document, board and calendar views.
+- **[Ocaty](https://nurhabibassolihudin.github.io/en/#project-ocaty)** — modular business applications, connecting frontend modules, shared components, and account and notification services.
+- **[Oxelot](https://github.com/NurHabibAssolihudin/Oxelot)** — browser storage, worker management and offline synchronization, using TypeScript, OPFS and WASM SQLite.
 
-A TypeScript library for browser-side storage, background workers and offline data synchronization. I develop its OPFS and WASM SQLite storage, worker management and synchronization.
+These three are personal projects. I handle their planning, branding, development, deployment and marketing.
 
-[Source and documentation](https://github.com/NurHabibAssolihudin/Oxelot) · [Project overview](https://nurhabibassolihudin.github.io/en/#project-oxelot)
+### Experiments in AI & communication
+
+- **[Tony](https://github.com/NurHabibAssolihudin/Tony)** — a self-hosted assistant setup built around Letta Code, with persistent memory and a CLI-first interface.
+- **[GenUI](https://github.com/NurHabibAssolihudin/GenUI)** — a dashboard prototype for natural-language layout controls, built with FastAPI, Jinja2 and a mock AI layer.
+- **[RabbitMQ Chat](https://github.com/NurHabibAssolihudin/RabbitMQ-Chat-App)** — realtime communication with FastAPI, WebSockets and RabbitMQ; an experiment in queues and message delivery.
+
+## Tech stack
+
+**Applications & APIs**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+</p>
+
+**Data & infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&amp;logo=rabbitmq&amp;logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+</p>
 
 ## Work experience
 
-### R&D Developer
-
-**PT Semesta Teknologi Informatika**
+**R&D Developer** at **PT Semesta Teknologi Informatika**.
 
 [Professional background on LinkedIn](https://www.linkedin.com/in/nurhabib-assolihudin)
 
-## Engineering interests
-
-I'm interested in how independent components communicate, coordinate and recover from failure. That takes me into message queues, asynchronous processing, networking and storage internals.
-
-<details>
-<summary>More tools I work with</summary>
-
-- **Application development:** TypeScript, JavaScript, Python, React, FastAPI.
-- **Data and messaging:** PostgreSQL, Redis, RabbitMQ.
-- **Development and deployment:** Docker, Git, GitHub Actions.
-
-</details>
-
-<details>
-<summary>GitHub activity</summary>
+## GitHub activity
 
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg" />
-    <img src="./profile/streak-light.svg" width="495" alt="GitHub contribution streak" />
+    <img src="./profile/streak-light.svg" width="419" alt="GitHub contribution streak" />
   </picture>
-</p>
-
-<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
@@ -72,8 +86,18 @@ I'm interested in how independent components communicate, coordinate and recover
   </picture>
 </p>
 
-</details>
+## Let's connect
 
-## Get in touch
+<div align="center">
 
-For a project, a role or a technical conversation, email [nurhabibassolihudin12@gmail.com](mailto:nurhabibassolihudin12@gmail.com).
+For projects, engineering roles, or a technical conversation.
+
+<p>
+  <a href="mailto:nurhabibassolihudin12@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-4264FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me to discuss a project or role" /></a>
+  <a href="https://www.linkedin.com/in/nurhabib-assolihudin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with me on LinkedIn" /></a>
+  <a href="https://nurhabibassolihudin.github.io/en/"><img src="https://img.shields.io/badge/Portfolio-View_work-24292F?style=for-the-badge" alt="View projects on my portfolio" /></a>
+</p>
+
+[nurhabibassolihudin12@gmail.com](mailto:nurhabibassolihudin12@gmail.com)
+
+</div>
