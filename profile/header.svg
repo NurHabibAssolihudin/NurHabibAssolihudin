@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" fill="none">
+  <!-- Static, self-contained artwork. The README supplies the accessible introduction. -->
+  <rect width="1280" height="280" fill="#0B0C0F"/>
+  <g fill="#F1EFE7">
+    <!-- N -->
+    <path d="M64 216V64H101L168 160V64H206V216H169L102 120V216H64Z"/>
+    <!-- U -->
+    <path d="M234 64H274V155C274 174 282 183 299 183C316 183 324 174 324 155V64H364V156C364 198 340 220 299 220C258 220 234 198 234 156V64Z"/>
+    <!-- R -->
+    <path fill-rule="evenodd" d="M394 64H462C500 64 522 83 522 115C522 138 510 153 491 160L531 216H484L450 166H434V216H394V64ZM434 97V134H459C474 134 482 128 482 115C482 103 474 97 459 97H434Z" clip-rule="evenodd"/>
+  </g>
+  <!-- One continuous folded stroke repeats the N as a structural motif. -->
+  <path d="M832 280V80L1112 280V0" stroke="#4264FF" stroke-width="80" stroke-linejoin="bevel"/>
+</svg>
