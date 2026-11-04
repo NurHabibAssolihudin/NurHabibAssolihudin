@@ -6,7 +6,9 @@
 
 # NurHabib Assolihudin
 
-**Web applications · Systems integration · Developer tools**
+**Systems & Product Engineer**
+
+Modular applications · Backend services · Developer infrastructure
 
 <p>
   <a href="https://nurhabibassolihudin.github.io/en/"><img src="https://img.shields.io/badge/Portfolio-4264FF?style=for-the-badge" alt="View my portfolio" /></a>
@@ -16,36 +18,56 @@
 
 </div>
 
-## About me
+I'm **NurHabib**. I build web applications, backend services, and tools for developers.
 
-I'm **Nur**, a developer working across web applications, backend services and tools for other developers.
-
-I like understanding how the pieces work together: the interface someone uses, the services behind it, and the data moving between them. I care about making that machinery understandable and the experience worth using.
+I like tracing how a product works: where its data lives, how services communicate, and what happens when a connection fails. That takes me from product features to the systems underneath them.
 
 ## What I build
 
-- **Web applications** — project workspaces, business applications and shared interface components.
-- **Systems integration & automation** — APIs, service integrations, messaging and background processing.
-- **Developer tools** — browser storage, workers and offline data synchronization.
-- **AI experiments** — self-hosted assistants and prototypes for working with interfaces through natural language.
+- **Modular applications** — business software, project workspaces, and shared interface components.
+- **Backend services & systems integration** — APIs, service communication, message queues, and background processing.
+- **Developer infrastructure** — libraries for browser storage, workers, and offline data synchronization.
 
-## Projects & experiments
+## Current focus
 
-### Applications & developer tools
+I'm developing modular business applications through **Ocaty** and exploring offline-first infrastructure through **Oxelot**, with attention to module boundaries, data flow, and developer experience.
 
-- **[ORCA](https://orca.ocaty.com)** — a self-hostable workspace for project documents, tasks and schedules, with document, board and calendar views.
-- **[Ocaty](https://nurhabibassolihudin.github.io/en/#project-ocaty)** — modular business applications, connecting frontend modules, shared components, and account and notification services.
-- **[Oxelot](https://github.com/NurHabibAssolihudin/Oxelot)** — browser storage, worker management and offline synchronization, using TypeScript, OPFS and WASM SQLite.
+**Work experience:** R&D Developer at **PT Semesta Teknologi Informatika**.
 
-These three are personal projects. I handle their planning, branding, development, deployment and marketing.
+## Selected projects
 
-### Experiments in AI & communication
+The projects below are personal work, separate from my employment. For ORCA, Ocaty, and Oxelot, I handle planning, branding, development, deployment, and marketing.
 
-- **[Tony](https://github.com/NurHabibAssolihudin/Tony)** — a self-hosted assistant setup built around Letta Code, with persistent memory and a CLI-first interface.
-- **[GenUI](https://github.com/NurHabibAssolihudin/GenUI)** — a dashboard prototype for natural-language layout controls, built with FastAPI, Jinja2 and a mock AI layer.
-- **[RabbitMQ Chat](https://github.com/NurHabibAssolihudin/RabbitMQ-Chat-App)** — realtime communication with FastAPI, WebSockets and RabbitMQ; an experiment in queues and message delivery.
+### [ORCA](https://orca.ocaty.com)
 
-## Tech stack
+A project workspace for documents, tasks, and schedules, with document, board, and calendar views.
+
+### [Ocaty](https://nurhabibassolihudin.github.io/en/#project-ocaty)
+
+A modular business application platform covering commerce, CRM, and ERP. My work includes frontend modules, shared UI components, and account and notification services.
+
+Working on Ocaty has taught me to understand the goal behind an idea before judging it against the alternatives I already know.
+
+**Technology:** React, Module Federation, FastAPI, PostgreSQL, Docker.
+
+### [Oxelot](https://github.com/NurHabibAssolihudin/Oxelot)
+
+Offline-first developer infrastructure for browser storage, worker management, and data synchronization.
+
+**Technology:** TypeScript, OPFS, WASM SQLite, Web Workers.
+
+### [RabbitMQ Chat](https://github.com/NurHabibAssolihudin/RabbitMQ-Chat-App)
+
+A realtime communication experiment. FastAPI applications publish messages to RabbitMQ; a receiver consumes them and broadcasts updates to connected browsers through WebSockets.
+
+**Technology:** Python, FastAPI, RabbitMQ, WebSockets.
+
+## Technical interests
+
+- Module boundaries, shared contracts, and the cost of coupling services.
+- Backend design, data flows, and event-driven communication.
+- Offline-first storage, background workers, and synchronization.
+- Developer tools that make a system easier to understand and work with.
 
 **Applications & APIs**
 
@@ -65,13 +87,8 @@ These three are personal projects. I handle their planning, branding, developmen
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
 </p>
 
-## Work experience
-
-**R&D Developer** at **PT Semesta Teknologi Informatika**.
-
-[Professional background on LinkedIn](https://www.linkedin.com/in/nurhabib-assolihudin)
-
-## GitHub activity
+<details>
+<summary>GitHub activity</summary>
 
 <p>
   <picture>
@@ -86,11 +103,27 @@ These three are personal projects. I handle their planning, branding, developmen
   </picture>
 </p>
 
-## Let's connect
+</details>
+
+## Currently exploring
+
+- How independently developed modules can share UI and contracts without becoming tightly coupled.
+- What an application should do while offline, and how it reconciles changes after reconnecting.
+- Where message queues and workers help, and where simpler request–response code is enough.
+
+<details>
+<summary>Side experiments</summary>
+
+- **[Tony](https://github.com/NurHabibAssolihudin/Tony)** — experiments with a self-hosted assistant and persistent memory.
+- **[GenUI](https://github.com/NurHabibAssolihudin/GenUI)** — a prototype for natural-language interface controls.
+
+</details>
+
+## Connect with me
 
 <div align="center">
 
-For projects, engineering roles, or a technical conversation.
+For product engineering roles, backend and integration work, or a technical conversation.
 
 <p>
   <a href="mailto:nurhabibassolihudin12@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-4264FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me to discuss a project or role" /></a>
