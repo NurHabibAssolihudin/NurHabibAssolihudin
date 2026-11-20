@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" fill="none">
-  <!-- Static, self-contained artwork. The README supplies the accessible introduction. -->
-  <rect width="1280" height="280" fill="#0B0C0F"/>
-  <g fill="#F1EFE7">
-    <!-- N -->
-    <path d="M64 216V64H101L168 160V64H206V216H169L102 120V216H64Z"/>
-    <!-- U -->
-    <path d="M234 64H274V155C274 174 282 183 299 183C316 183 324 174 324 155V64H364V156C364 198 340 220 299 220C258 220 234 198 234 156V64Z"/>
-    <!-- R -->
-    <path fill-rule="evenodd" d="M394 64H462C500 64 522 83 522 115C522 138 510 153 491 160L531 216H484L450 166H434V216H394V64ZM434 97V134H459C474 134 482 128 482 115C482 103 474 97 459 97H434Z" clip-rule="evenodd"/>
-  </g>
-  <!-- One continuous folded stroke repeats the N as a structural motif. -->
-  <path d="M832 280V80L1112 280V0" stroke="#4264FF" stroke-width="80" stroke-linejoin="bevel"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" fill="none" role="img" aria-labelledby="title description">
+<title id="title">NurHabib Assolihudin — Systems &amp; Product Engineer</title>
+<desc id="description">A sculptural flower of folded crimson and violet petals opens and turns slowly. Modular applications, backend services, and developer infrastructure.</desc>
+<defs><g id="leaf"><path d="M0 14-55-48-42-121-12-153 27-97 30-35Z" fill="currentColor"/><path d="M-12-153 0-45 0 14-55-48-42-121Z" fill="#0D1117" opacity=".24"/><path d="M-12-153 0-45 30-35" stroke="#FFFFFF" stroke-opacity=".24" stroke-width="1.2"/></g></defs>
+<style>
+.flower{animation:turn 80s linear infinite}.bloom{animation:bloom 9s ease-in-out infinite}.inner{animation:unfold 9s ease-in-out infinite}.topic{opacity:0;animation:topic 18s ease-in-out infinite}.topic-2{animation-delay:6s}.topic-3{animation-delay:12s}
+@keyframes turn{to{transform:rotate(360deg)}}@keyframes bloom{0%,100%{transform:scale(.94)}50%{transform:scale(1.03)}}@keyframes unfold{0%,100%{transform:rotate(18deg) scale(.61)}50%{transform:rotate(31deg) scale(.68)}}@keyframes topic{0%,2%{opacity:0}5%,29%{opacity:1}32%,100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.flower,.bloom,.inner,.topic{animation:none}.topic-1{opacity:1}}
+</style>
+<rect width="1280" height="400" fill="#FFFFFF"/>
+<g font-family="Arial,Helvetica,sans-serif"><g fill="#282033" font-size="78" font-weight="750" letter-spacing="-4"><text x="62" y="128">NurHabib</text><text x="62" y="209">Assolihudin.</text></g><text x="66" y="265" fill="#665875" font-size="27">Systems &amp; Product Engineer</text><circle cx="73" cy="307" r="5" fill="#713BAB"/><g fill="#713BAB" font-size="24"><text class="topic topic-1" x="94" y="315">Modular applications</text><text class="topic topic-2" x="94" y="315">Backend services &amp; integration</text><text class="topic topic-3" x="94" y="315">Developer infrastructure</text></g></g>
+<g transform="translate(1030 200)"><g class="flower"><g class="bloom"><use href="#leaf" color="#BA284F" transform="rotate(0)"/><use href="#leaf" color="#8C49CC" transform="rotate(51.42857142857143)"/><use href="#leaf" color="#D5415C" transform="rotate(102.85714285714286)"/><use href="#leaf" color="#713BB0" transform="rotate(154.28571428571428)"/><use href="#leaf" color="#C93450" transform="rotate(205.71428571428572)"/><use href="#leaf" color="#9A57D2" transform="rotate(257.14285714285717)"/><use href="#leaf" color="#9F244A" transform="rotate(308.57142857142856)"/></g><g class="inner" transform="rotate(18) scale(.61)"><use href="#leaf" color="#A773E2" transform="rotate(0)"/><use href="#leaf" color="#713BB0" transform="rotate(72)"/><use href="#leaf" color="#C24C76" transform="rotate(144)"/><use href="#leaf" color="#8A52C4" transform="rotate(216)"/><use href="#leaf" color="#C34361" transform="rotate(288)"/></g><path d="m0-19 18 10v20L0 21-18-10v-1Z" fill="#21152F"/><path d="m0-9 8 9-8 9-8-9Z" fill="#D44A69"/></g></g>
+<path d="M65 365H730" stroke="#E3DCEB"/><path d="M65 365H151" stroke="#713BAB" stroke-width="2"/>
 </svg>

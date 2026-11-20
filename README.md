@@ -1,5 +1,8 @@
 <p>
-  <img src="./profile/header.svg" width="1280" alt="" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/header-dark.svg" />
+    <img src="./profile/header.svg" width="1280" alt="" />
+  </picture>
 </p>
 
 # NurHabib Assolihudin
@@ -9,8 +12,8 @@
 I build web applications, backend services, and tools for developers. I like following a feature beyond its interface: where the data goes, how services communicate, and what happens when the connection drops.
 
 <p>
-  <a href="https://nurhabibassolihudin.github.io/en/"><img src="https://img.shields.io/badge/Portfolio-4264FF?style=for-the-badge" alt="View my portfolio" /></a>
-  <a href="https://www.linkedin.com/in/nurhabib-assolihudin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://nurhabibassolihudin.github.io/en/"><img src="https://img.shields.io/badge/Portfolio-B82F50?style=for-the-badge" alt="View my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nurhabib-assolihudin"><img src="https://img.shields.io/badge/LinkedIn-713BAB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:nurhabibassolihudin12@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
 </p>
 
@@ -18,7 +21,7 @@ I build web applications, backend services, and tools for developers. I like fol
 
 ## From the interface to the system underneath
 
-<img src="./profile/systems.svg" width="1280" alt="Three connected areas of my work: modular applications, backend services and integration, and offline-first developer tools." />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./profile/systems-dark.svg" /><img src="./profile/systems.svg" width="1280" alt="Three connected areas of my work: modular applications, backend services and integration, and offline-first developer tools." /></picture>
 
 - **Applications:** business software, project workspaces, and reusable components.
 - **Services:** APIs, queues, background processing, and communication between systems.
@@ -113,13 +116,13 @@ Contribution streak and repository languages
 
 ## Let's talk
 
-<a href="mailto:nurhabibassolihudin12@gmail.com"><img src="./profile/contact.svg" width="1280" alt="Have a project or a question? Email NurHabib at nurhabibassolihudin12@gmail.com." /></a>
+<a href="mailto:nurhabibassolihudin12@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/contact-dark.svg" /><img src="./profile/contact.svg" width="1280" alt="Have a project or a question? Email NurHabib at nurhabibassolihudin12@gmail.com." /></picture></a>
 
 For product engineering roles, backend and integration work, or a conversation about something you're building.
 
 <p>
-  <a href="mailto:nurhabibassolihudin12@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-4264FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
-  <a href="https://www.linkedin.com/in/nurhabib-assolihudin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:nurhabibassolihudin12@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-B82F50?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/nurhabib-assolihudin"><img src="https://img.shields.io/badge/LinkedIn-Connect-713BAB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="https://nurhabibassolihudin.github.io/en/"><img src="https://img.shields.io/badge/Portfolio-View_work-24292F?style=for-the-badge" alt="View my portfolio" /></a>
 </p>
 
