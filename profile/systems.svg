@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">From applications to the systems underneath</title>
+<desc id="desc">Three geometric modules connected by moving blue signals: applications, services, and developer tools.</desc>
+<style>
+.signal{stroke-dasharray:12 210;animation:flow 5s linear infinite}.second{animation-delay:-2.5s}.module{animation:float 7s ease-in-out infinite}.m2{animation-delay:-2.3s}.m3{animation-delay:-4.6s}
+@keyframes flow{to{stroke-dashoffset:-444}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@media(prefers-reduced-motion:reduce){.signal,.module{animation:none}.signal{stroke-dasharray:none;opacity:.5}}
+</style>
+<rect width="1280" height="300" fill="#0B0C0F"/>
+<path d="M340 133H484M760 133H904" stroke="#303746" stroke-width="2"/>
+<path class="signal" d="M340 133H484M760 133H904" stroke="#7190FF" stroke-width="3"/>
+<path class="signal second" d="M340 133H484M760 133H904" stroke="#7190FF" stroke-width="3"/>
+<g class="module"><path d="m140 92 92-48 92 48-92 48-92-48Z" fill="#4264FF"/><path d="m140 92 92 48v72l-92-48V92Z" fill="#243DA8"/><path d="m232 140 92-48v72l-92 48v-72Z" fill="#7791FF"/><path d="m140 117 92 48 92-48m-184 25 92 48 92-48" stroke="#0B0C0F" stroke-width="3"/></g>
+<g class="module m2"><path d="m560 92 92-48 92 48-92 48-92-48Z" fill="#F1EFE7"/><path d="m560 92 92 48v72l-92-48V92Z" fill="#8991A4"/><path d="m652 140 92-48v72l-92 48v-72Z" fill="#C5CAD5"/><path d="m606 116 46 24v72l-46-24v-72Z" fill="#4264FF"/></g>
+<g class="module m3"><path d="m980 92 92-48 92 48-92 48-92-48Z" fill="#7791FF"/><path d="m980 92 92 48v72l-92-48V92Z" fill="#243DA8"/><path d="m1072 140 92-48v72l-92 48v-72Z" fill="#4264FF"/><path d="m1002 81 92 48m-92-72 92 48" stroke="#0B0C0F" stroke-width="8"/></g>
+<g fill="#F1EFE7" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700"><text x="232" y="262" text-anchor="middle">Applications</text><text x="652" y="262" text-anchor="middle">Services</text><text x="1072" y="262" text-anchor="middle">Developer tools</text></g>
+</svg>

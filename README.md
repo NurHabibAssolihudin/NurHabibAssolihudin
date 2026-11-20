@@ -2,13 +2,11 @@
   <img src="./profile/header.svg" width="1280" alt="" />
 </p>
 
-<div align="center">
-
 # NurHabib Assolihudin
 
 **Systems & Product Engineer**
 
-Modular applications · Backend services · Developer infrastructure
+I build web applications, backend services, and tools for developers. I like following a feature beyond its interface: where the data goes, how services communicate, and what happens when the connection drops.
 
 <p>
   <a href="https://nurhabibassolihudin.github.io/en/"><img src="https://img.shields.io/badge/Portfolio-4264FF?style=for-the-badge" alt="View my portfolio" /></a>
@@ -16,79 +14,89 @@ Modular applications · Backend services · Developer infrastructure
   <a href="mailto:nurhabibassolihudin12@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
 </p>
 
-</div>
+[Work](#selected-work) · [Tools](#tools-i-work-with) · [Notes](#things-im-working-through) · [Contact](#lets-talk)
 
-I'm **NurHabib**. I build web applications, backend services, and tools for developers.
+## From the interface to the system underneath
 
-I like tracing how a product works: where its data lives, how services communicate, and what happens when a connection fails. That takes me from product features to the systems underneath them.
+<img src="./profile/systems.svg" width="1280" alt="Three connected areas of my work: modular applications, backend services and integration, and offline-first developer tools." />
 
-## What I build
+- **Applications:** business software, project workspaces, and reusable components.
+- **Services:** APIs, queues, background processing, and communication between systems.
+- **Developer tools:** browser storage, workers, and offline data synchronization.
 
-- **Modular applications** — business software, project workspaces, and shared interface components.
-- **Backend services & systems integration** — APIs, service communication, message queues, and background processing.
-- **Developer infrastructure** — libraries for browser storage, workers, and offline data synchronization.
+**Work experience** · R&D Developer at **PT Semesta Teknologi Informatika**.
 
-## Current focus
+## Selected work
 
-I'm developing modular business applications through **Ocaty** and exploring offline-first infrastructure through **Oxelot**, with attention to module boundaries, data flow, and developer experience.
+These are personal projects, separate from my employment. For ORCA, Ocaty, and Oxelot, I work across planning, branding, code, deployment, and marketing.
 
-**Work experience:** R&D Developer at **PT Semesta Teknologi Informatika**.
+### ORCA
 
-## Selected projects
+A workspace for documents, tasks, and schedules
 
-The projects below are personal work, separate from my employment. For ORCA, Ocaty, and Oxelot, I handle planning, branding, development, deployment, and marketing.
+Document, board, and calendar views in one project workspace. My work includes the application itself and the interactions that connect those views.
 
-### [ORCA](https://orca.ocaty.com)
+[Visit ORCA](https://orca.ocaty.com) · [Read the case study](https://nurhabibassolihudin.github.io/en/projects/orca/)
 
-A project workspace for documents, tasks, and schedules, with document, board, and calendar views.
+### Ocaty
 
-### [Ocaty](https://nurhabibassolihudin.github.io/en/#project-ocaty)
+Modular business applications
 
-A modular business application platform covering commerce, CRM, and ERP. My work includes frontend modules, shared UI components, and account and notification services.
+A platform for business software, with experiments around frontend modules, shared components, and backend services. The development has moved from modular frontend experiments toward a more focused initial release.
 
-Working on Ocaty has taught me to understand the goal behind an idea before judging it against the alternatives I already know.
+**Working with:** React, Module Federation, FastAPI, PostgreSQL, Docker.
 
-**Technology:** React, Module Federation, FastAPI, PostgreSQL, Docker.
+One lesson I keep coming back to: a client's idea can solve a different problem from the one I first see. I need to understand their perspective before deciding what I think would work better.
 
-### [Oxelot](https://github.com/NurHabibAssolihudin/Oxelot)
+[Read the case study](https://nurhabibassolihudin.github.io/en/projects/ocaty/)
 
-Offline-first developer infrastructure for browser storage, worker management, and data synchronization.
+### Oxelot
 
-**Technology:** TypeScript, OPFS, WASM SQLite, Web Workers.
+Browser storage, workers, and offline data
 
-### [RabbitMQ Chat](https://github.com/NurHabibAssolihudin/RabbitMQ-Chat-App)
+Developer infrastructure for applications that need to keep working offline. I explore how browser storage, worker management, and synchronization can fit together without hiding how they behave.
 
-A realtime communication experiment. FastAPI applications publish messages to RabbitMQ; a receiver consumes them and broadcasts updates to connected browsers through WebSockets.
+**Working with:** TypeScript, OPFS, WASM SQLite, Web Workers.
 
-**Technology:** Python, FastAPI, RabbitMQ, WebSockets.
+[Explore the repository](https://github.com/NurHabibAssolihudin/Oxelot) · [Read the case study](https://nurhabibassolihudin.github.io/en/projects/oxelot/)
 
-## Technical interests
+### RabbitMQ Chat
 
-- Module boundaries, shared contracts, and the cost of coupling services.
-- Backend design, data flows, and event-driven communication.
-- Offline-first storage, background workers, and synchronization.
-- Developer tools that make a system easier to understand and work with.
+Following a message across services
 
-**Applications & APIs**
+A realtime communication experiment: FastAPI applications publish messages to RabbitMQ, then a receiver consumes them and broadcasts updates to browsers through WebSockets.
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
-</p>
+**Working with:** Python, FastAPI, RabbitMQ, WebSockets.
 
-**Data & infrastructure**
+[Explore the repository](https://github.com/NurHabibAssolihudin/RabbitMQ-Chat-App)
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&amp;logo=rabbitmq&amp;logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-</p>
+## Tools I work with
 
-<details>
-<summary>GitHub activity</summary>
+| Area | Tools |
+| :-- | :-- |
+| Languages | <img src="https://skillicons.dev/icons?i=ts,py&amp;perline=6" height="40" alt="TypeScript, Python" /> |
+| Applications & APIs | <img src="https://skillicons.dev/icons?i=react,fastapi&amp;perline=6" height="40" alt="React, FastAPI" /> |
+| Data & messaging | <img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq&amp;perline=6" height="40" alt="PostgreSQL, Redis, RabbitMQ" /> |
+| Deployment | <img src="https://skillicons.dev/icons?i=docker&amp;perline=6" height="40" alt="Docker" /> |
+
+## Things I'm working through
+
+The interesting part for me is often where two parts of a system meet.
+
+- How can independently developed modules share a UI and contracts without becoming tightly coupled?
+- What should an application do offline, and how should it reconcile changes afterward?
+- When do queues and workers help, and when is a simple request–response flow enough?
+
+### Other experiments
+
+AI and interface prototypes
+
+- **[Tony](https://github.com/NurHabibAssolihudin/Tony)** — a self-hosted assistant and persistent-memory experiment.
+- **[GenUI](https://github.com/NurHabibAssolihudin/GenUI)** — a prototype for natural-language interface controls.
+
+### GitHub activity
+
+Contribution streak and repository languages
 
 <p>
   <picture>
@@ -103,34 +111,16 @@ A realtime communication experiment. FastAPI applications publish messages to Ra
   </picture>
 </p>
 
-</details>
+## Let's talk
 
-## Currently exploring
+<a href="mailto:nurhabibassolihudin12@gmail.com"><img src="./profile/contact.svg" width="1280" alt="Have a project or a question? Email NurHabib at nurhabibassolihudin12@gmail.com." /></a>
 
-- How independently developed modules can share UI and contracts without becoming tightly coupled.
-- What an application should do while offline, and how it reconciles changes after reconnecting.
-- Where message queues and workers help, and where simpler request–response code is enough.
-
-<details>
-<summary>Side experiments</summary>
-
-- **[Tony](https://github.com/NurHabibAssolihudin/Tony)** — experiments with a self-hosted assistant and persistent memory.
-- **[GenUI](https://github.com/NurHabibAssolihudin/GenUI)** — a prototype for natural-language interface controls.
-
-</details>
-
-## Connect with me
-
-<div align="center">
-
-For product engineering roles, backend and integration work, or a technical conversation.
+For product engineering roles, backend and integration work, or a conversation about something you're building.
 
 <p>
-  <a href="mailto:nurhabibassolihudin12@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-4264FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me to discuss a project or role" /></a>
-  <a href="https://www.linkedin.com/in/nurhabib-assolihudin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with me on LinkedIn" /></a>
-  <a href="https://nurhabibassolihudin.github.io/en/"><img src="https://img.shields.io/badge/Portfolio-View_work-24292F?style=for-the-badge" alt="View projects on my portfolio" /></a>
+  <a href="mailto:nurhabibassolihudin12@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-4264FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/nurhabib-assolihudin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://nurhabibassolihudin.github.io/en/"><img src="https://img.shields.io/badge/Portfolio-View_work-24292F?style=for-the-badge" alt="View my portfolio" /></a>
 </p>
 
 [nurhabibassolihudin12@gmail.com](mailto:nurhabibassolihudin12@gmail.com)
-
-</div>

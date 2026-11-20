@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Have something in mind?</title><desc id="desc">An open blue envelope. Let's talk: nurhabibassolihudin12@gmail.com.</desc>
+<style>.letter{animation:letter 6s ease-in-out infinite}.trail{stroke-dasharray:6 12;animation:trail 8s linear infinite}@keyframes letter{0%,15%,85%,100%{transform:translateY(0)}45%,60%{transform:translateY(-16px)}}@keyframes trail{to{stroke-dashoffset:-144}}@media(prefers-reduced-motion:reduce){.letter,.trail{animation:none}}</style>
+<rect width="1280" height="280" fill="#0B0C0F"/>
+<path class="trail" d="M770 210H825Q850 210 850 185V100Q850 75 875 75H926" stroke="#7190FF" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#F1EFE7"><text x="64" y="110" font-size="52" font-weight="700">Have something</text><text x="64" y="171" font-size="52" font-weight="700">in mind?</text><text x="67" y="227" fill="#AAB2C7" font-size="24">Let's talk.</text></g>
+<path d="m918 121 116-80 116 80v112H918V121Z" fill="#243DA8"/>
+<g class="letter"><rect x="950" y="83" width="168" height="126" rx="4" fill="#F1EFE7"/><path d="M974 112h106m-106 22h80m-80 22h93" stroke="#8991A4" stroke-width="5"/><rect x="974" y="174" width="31" height="8" fill="#4264FF"/></g>
+<path d="m918 121 116 73 116-73v112H918V121Z" fill="#4264FF"/><path d="m918 233 86-70m146 70-86-70" stroke="#7791FF" stroke-width="3"/>
+</svg>
